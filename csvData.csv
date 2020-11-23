@@ -1,0 +1,233 @@
+﻿rank,cca2,name,pop2020
+1,CN,China,1439323776
+2,IN,India,1380004385
+3,US,United States,331002651
+4,ID,Indonesia,273523615
+5,PK,Pakistan,22089234
+6,BR,Brazil,212559417
+7,NG,Nigeria,206139589
+8,BD,Bangladesh,164689383
+9,RU,Russia,145934462
+10,MX,Mexico,128932753
+11,JP,Japan,126476461
+12,ET,Ethiopia,114963588
+13,PH,Philippines,109581078
+14,EG,Egypt,102334404
+15,VN,Vietnam,97338579
+16,CD,DR Congo,89561403
+19,DE,Germany,83783942
+17,TR,Turkey,84339067
+18,IR,Iran,83992949
+20,TH,Thailand,69799978
+21,GB,United Kingdom,67886011
+22,FR,France,65273511
+23,IT,Italy,60461826
+25,ZA,South Africa,5930869
+24,TZ,Tanzania,59734218
+26,MM,Myanmar,544098
+27,KE,Kenya,53771296
+28,KR,South Korea,51269185
+29,CO,Colombia,50882891
+30,ES,Spain,46754778
+32,AR,Argentina,45195774
+31,UG,Uganda,45741007
+35,UA,Ukraine,43733762
+33,DZ,Algeria,43851044
+34,SD,Sudan,4384926
+36,IQ,Iraq,40222493
+37,AF,Afghanistan,38928346
+38,PL,Poland,37846611
+39,CA,Canada,37742154
+40,MA,Morocco,3691056
+41,SA,Saudi Arabia,34813871
+42,UZ,Uzbekistan,33469203
+43,PE,Peru,32971854
+45,MY,Malaysia,32365999
+44,AO,Angola,32866272
+47,GH,Ghana,3107294
+46,MZ,Mozambique,31255435
+48,YE,Yemen,29825964
+49,NP,Nepal,29136808
+50,VE,Venezuela,2843594
+51,MG,Madagascar,27691018
+52,CM,Cameroon,26545863
+53,CI,Ivory Coast,26378274
+54,KP,North Korea,25778816
+55,AU,Australia,25499884
+57,TW,Taiwan,23816775
+56,NE,Niger,24206644
+58,LK,Sri Lanka,21413249
+59,BF,Burkina Faso,20903273
+60,ML,Mali,20250833
+61,RO,Romania,19237691
+63,CL,Chile,19116201
+62,MW,Malawi,19129952
+64,KZ,Kazakhstan,18776707
+65,ZM,Zambia,18383955
+66,GT,Guatemala,17915568
+67,EC,Ecuador,17643054
+69,NL,Netherlands,17134872
+68,SY,Syria,17500658
+71,KH,Cambodia,16718965
+70,SN,Senegal,16743927
+72,TD,Chad,16425864
+73,SO,Somalia,15893222
+74,ZW,Zimbabwe,14862924
+75,GN,Guinea,13132795
+76,RW,Rwanda,12952218
+77,BJ,Benin,121232
+79,TN,Tunisia,11818619
+81,BE,Belgium,11589623
+78,BI,Burundi,11890784
+80,BO,Bolivia,11673021
+83,CU,Cuba,11326616
+82,HT,Haiti,11402528
+84,SS,South Sudan,11193725
+85,DO,Dominican Republic,1084791
+86,CZ,Czech Republic,10708981
+87,GR,Greece,10423054
+89,PT,Portugal,10196709
+88,JO,Jordan,10203134
+90,AZ,Azerbaijan,10139177
+91,SE,Sweden,10099265
+93,AE,United Arab Emirates,9890402
+92,HN,Honduras,9904607
+94,HU,Hungary,9660351
+96,BY,Belarus,9449323
+95,TJ,Tajikistan,9537645
+97,AT,Austria,9006398
+98,PG,Papua New Guinea,8947024
+99,RS,Serbia,8737371
+101,CH,Switzerland,8654622
+100,IL,Israel,8655535
+102,TG,Togo,8278724
+103,SL,Sierra Leone,7976983
+104,HK,Hong Kong,7496981
+105,LA,Laos,727556
+106,PY,Paraguay,7132538
+107,BG,Bulgaria,6948445
+109,LB,Lebanon,6825445
+108,LY,Libya,6871292
+110,NI,Nicaragua,6624554
+112,SV,El Salvador,6486205
+111,KG,Kyrgyzstan,6524195
+113,TM,Turkmenistan,60312
+114,SG,Singapore,5850342
+115,DK,Denmark,5792202
+116,FI,Finland,554072
+118,SK,Slovakia,5459642
+117,CG,Republic of the Congo,5518087
+119,NO,Norway,5421241
+122,CR,Costa Rica,5094118
+121,PS,Palestine,5101414
+120,OM,Oman,5106626
+123,LR,Liberia,5057681
+124,IE,Ireland,4937786
+126,NZ,New Zealand,4822233
+125,CF,Central African Republic,4829767
+127,MR,Mauritania,4649658
+128,PA,Panama,4314767
+129,KW,Kuwait,4270571
+130,HR,Croatia,4105267
+131,MD,Moldova,4033963
+132,GE,Georgia,3989167
+133,ER,Eritrea,3546421
+134,UY,Uruguay,347373
+135,BA,Bosnia and Herzegovina,3280819
+136,MN,Mongolia,327829
+137,AM,Armenia,2963243
+138,JM,Jamaica,2961167
+141,PR,Puerto Rico,2860853
+140,AL,Albania,2877797
+139,QA,Qatar,2881053
+142,LT,Lithuania,2722289
+143,NA,Namibia,2540905
+144,GM,Gambia,2416668
+145,BW,Botswana,2351627
+146,GA,Gabon,2225734
+147,LS,Lesotho,2142249
+148,MK,Macedonia,2083374
+149,SI,Slovenia,2078938
+150,GW,Guinea-Bissau,1968001
+151,LV,Latvia,1886198
+152,BH,Bahrain,1701575
+154,TT,Trinidad and Tobago,1399488
+153,GQ,Equatorial Guinea,1402985
+155,EE,Estonia,1326535
+156,TL,Timor-Leste,1318445
+157,MU,Mauritius,1271768
+158,CY,Cyprus,1207359
+159,SZ,Swaziland,1160164
+160,DJ,Djibouti,988
+161,FJ,Fiji,896445
+162,RE,Reunion,895312
+163,KM,Comoros,869601
+164,GY,Guyana,786552
+165,BT,Bhutan,771608
+166,SB,Solomon Islands,686884
+167,MO,Macau,649335
+168,ME,Montenegro,628066
+169,LU,Luxembourg,625978
+170,EH,Western Sahara,597339
+171,SR,Suriname,586632
+172,CV,Cape Verde,555987
+173,MV,Maldives,540544
+174,MT,Malta,441543
+175,BN,Brunei,437479
+176,GP,Guadeloupe,400124
+177,BZ,Belize,397628
+178,BS,Bahamas,393244
+179,MQ,Martinique,375265
+180,IS,Iceland,341243
+181,VU,Vanuatu,307145
+182,GF,French Guiana,298682
+183,BB,Barbados,287375
+184,NC,New Caledonia,285498
+185,PF,French Polynesia,280908
+186,YT,Mayotte,272815
+187,ST,Sao Tome and Principe,219159
+188,WS,Samoa,198414
+189,LC,Saint Lucia,183627
+190,GU,Guam,168775
+191,CW,Curacao,164093
+192,KI,Kiribati,119449
+193,FM,Micronesia,115023
+194,GD,Grenada,112523
+195,VC,Saint Vincent and the Grenadines,11094
+196,AW,Aruba,106766
+198,VI,United States Virgin Islands,104425
+197,TO,Tonga,105695
+199,SC,Seychelles,98347
+200,AG,Antigua and Barbuda,97929
+201,IM,Isle of Man,85033
+202,AD,Andorra,77265
+203,DM,Dominica,71986
+204,KY,Cayman Islands,65722
+205,BM,Bermuda,62278
+206,MH,Marshall Islands,5919
+207,MP,Northern Mariana Islands,57559
+208,GL,Greenland,5677
+209,AS,American Samoa,55191
+210,KN,Saint Kitts and Nevis,53199
+211,FO,Faroe Islands,48863
+212,SX,Sint Maarten,42876
+213,MC,Monaco,39242
+214,TC,Turks and Caicos Islands,38717
+216,LI,Liechtenstein,38128
+215,MF,Saint Martin,38666
+217,SM,San Marino,33931
+218,GI,Gibraltar,33691
+219,VG,British Virgin Islands,30231
+220,PW,Palau,18094
+221,CK,Cook Islands,17564
+222,AI,Anguilla,15003
+223,TV,Tuvalu,11792
+224,WF,Wallis and Futuna,11239
+225,NR,Nauru,10824
+226,BL,Saint Barthelemy,9877
+227,PM,Saint Pierre and Miquelon,5794
+228,MS,Montserrat,4992
+229,FK,Falkland Islands,348
+230,NU,Niue,1626
+231,TK,Tokelau,1357
+232,VA,Vatican City,801
