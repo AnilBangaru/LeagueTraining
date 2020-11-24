@@ -1,4 +1,4 @@
-Date_Full,Station_City,Station_State,Data_Temperature_Avg Temp,Data_Temperature_Max Temp,Data_Temperature_Min Temp
+Date_Full,Station_City,Station_State,Data_Temperature_Avg_Temp,Data_Temperature_Max_Temp,Data_Temperature_Min_Temp
 03/01/2016,Birmingham,Alabama,39,46,32
 03/01/2016,Huntsville,Alabama,39,47,31
 03/01/2016,Mobile,Alabama,46,51,41
